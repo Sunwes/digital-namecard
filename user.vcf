@@ -5,10 +5,9 @@ N:Lim;Sunny;;;
 FN: Sunny  Lim 
 ORG:8978 Pte Ltd;
 TITLE:Interior Architect, Design and Development
-PHOTO;JPEG:http://commons.wikimedia.org/wiki/File:Erika_Mustermann_2010.jpg
 EMAIL;type=INTERNET;type=WORK;type=pref:sunnylim101@gmail.com
 TEL;type=WORK;type=VOICE:+65 8772 8978
-item1.ADR;type=WORK;type=pref:;;777 Upper Serangoon Road\n#01-04, Sai Ho Building\,;;;534645;Singapore
+item1.ADR;type=WORK;type=pref:;;777 Upper Serangoon Road\n#01-04, Sai Ho Building\n;;;Singapore;534645
 item1.X-ABADR:sg
 item2.URL;type=pref:sg8978.com
 item2.X-ABLabel:_$!<HomePage>!$_
